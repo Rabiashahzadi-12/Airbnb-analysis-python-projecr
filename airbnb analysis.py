@@ -46,9 +46,6 @@ plt.xlabel('Price $')
 plt.ylabel('Frequency')
 plt.show()
 
-#The histrograml shows a fairly even distribution of listing
-prices across different ranges, indicating no particular concentration of listings in any 
-specific price range.
 
 # How different room types distributed?
 
