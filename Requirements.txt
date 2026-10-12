@@ -1,0 +1,5 @@
+The Libraries needed for the project are:
+
+Numpy
+Pandas
+Matplotlib.pyplot
